@@ -95,5 +95,3 @@ function Utility.findFunction(numberOfUpvalues: number, numberOfConstants: numbe
     end
     return nil
 end
-
-return Utility
