@@ -1,4 +1,4 @@
-local Utility = {}
+getgenv().Utility = {}
 
 -- Services
 local Players = game:GetService("Players")
